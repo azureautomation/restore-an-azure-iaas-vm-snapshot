@@ -1,0 +1,20 @@
+{
+    "Author": "Adam Bertram",
+    "ContentSize": 4908,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/restore-an-azure-iaas-vm-snapshot/master/Restore-AzureVMSnapshot.ps1",
+    "DownloadCount": 1849,
+    "Id": "Restore-an-Azure-IaaS-VM-62031beb",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 273,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2014-7-7T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script restores an Azure snapshot created via my Create-AzureVmSnapshot script uploaded recently. \u00a0It shuts down the VM, exports out the configuration, removes the VM, discovers the copy of BLOB created via my Create-AzureVMSnapshot script uplaoded earlier and finally restor",
+    "Title": "Restore an Azure IaaS VM Snapshot",
+    "UpdatedDate": "2014-7-7T00:00:00",
+    "Url": "https://github.com/azureautomation/restore-an-azure-iaas-vm-snapshot",
+    "UserTags": "Microsoft Azure"
+}
